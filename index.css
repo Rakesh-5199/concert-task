@@ -1,0 +1,51 @@
+body{
+    display: flex;
+    justify-content: center;
+
+}
+
+.maincontnet{
+
+    text-align: center;
+    border: 2px solid black;
+}
+img{
+    width: 112px;
+    border-radius: 63px;
+    height: 107px;
+}
+.main{
+   display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    margin: 30px;
+    padding: 16px;
+}
+
+
+.profilepic {
+    padding: 30px;
+}
+
+input{
+   
+    margin: 5px;
+}
+#PhoneNumber{
+
+    width: 219px;
+}
+#dropdownMenu{
+
+    width: 233px;
+}
+#Numberattendee{
+
+    width: 247px;
+}
+button{
+
+    background-color: black;
+    color: white;
+}
